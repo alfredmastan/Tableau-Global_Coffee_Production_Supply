@@ -1,0 +1,278 @@
+countryCode,countryName,regionCode,gencCode,displayName
+AF,Afghanistan,R12,AFG,Afghanistan
+T3,"Africa, NEC",R15,,"Africa, NEC"
+AL,Albania,R16,ALB,Albania
+AG,Algeria,R10,DZA,Algeria
+AO,Angola,R11,AGO,Angola
+AV,Anguilla,R02,AIA,Anguilla
+AC,Antigua and Barbuda,R02,ATG,Antigua and Barbuda
+AR,Argentina,R04,ARG,Argentina
+AM,Armenia,R07,ARM,Armenia
+AA,Aruba,R02,ABW,Aruba
+AS,Australia,R14,AUS,Australia
+AU,Austria,R05,AUT,European Union
+AJ,Azerbaijan,R07,AZE,Azerbaijan
+Y3,Azores,R16,,Azores
+BF,"Bahamas, The",R02,BHS,"Bahamas, The"
+BA,Bahrain,R09,BHR,Bahrain
+BG,Bangladesh,R12,BGD,Bangladesh
+BB,Barbados,R02,BRB,Barbados
+BO,Belarus,R07,BLR,Belarus
+S8,Belgium (without Luxembourg),R05,BEL,Belgium (without Luxembourg)
+BE,Belgium-Luxembourg,R05,,Belgium-Luxembourg
+BH,Belize,R03,BLZ,Belize
+DM,Benin,R11,BEN,Benin
+BD,Bermuda,R02,BMU,Bermuda
+BT,Bhutan,R12,BTN,Bhutan
+BL,Bolivia,R04,BOL,Bolivia
+BK,Bosnia and Herzegovina,R16,BIH,Bosnia and Herzegovina
+BC,Botswana,R11,BWA,Botswana
+BR,Brazil,R04,BRA,Brazil
+IO,British Ind. Ocean Territory,R11,IOT,British Ind. Ocean Territory
+VI,British Virgin Islands,R02,VGB,British Virgin Islands
+W7,British West Pacific Islands,R14,,British West Pacific Islands
+BX,Brunei,R17,BRN,Brunei
+BU,Bulgaria,R05,BGR,European Union
+UV,Burkina Faso,R11,BFA,Burkina Faso
+BM,Burma,R17,MMR,Burma
+BY,Burundi,R11,BDI,Burundi
+CV,Cabo Verde,R11,CPV,Cabo Verde
+CB,Cambodia,R17,KHM,Cambodia
+CM,Cameroon,R11,CMR,Cameroon
+CA,Canada,R01,CAN,Canada
+Y7,Canary Islands,R11,,Canary Islands
+X3,Canton and Enderbury Islands,R14,,Canton and Enderbury Islands
+C1,Caribbean Basin,R02,,Caribbean Basin
+CJ,Cayman Islands,R02,CYM,Cayman Islands
+CT,Central African Republic,R11,CAF,Central African Republic
+CD,Chad,R11,TCD,Chad
+CI,Chile,R04,CHL,Chile
+CH,China,R18,CHN,China
+CO,Colombia,R04,COL,Colombia
+CN,Comoros,R11,COM,Comoros
+CF,Congo (Brazzaville),R11,COG,Congo (Brazzaville)
+CG,Congo (Kinshasa),R11,COD,Congo (Kinshasa)
+CS,Costa Rica,R03,CRI,Costa Rica
+IV,Cote d'Ivoire,R11,CIV,Cote d'Ivoire
+HR,Croatia,R05,HRV,European Union
+CU,Cuba,R02,CUB,Cuba
+CY,Cyprus,R05,CYP,Cyprus
+EZ,Czech Republic,R05,CZE,European Union
+DA,Denmark,R05,DNK,European Union
+DJ,Djibouti,R11,DJI,Djibouti
+DO,Dominica,R02,DMA,Dominica
+DR,Dominican Republic,R02,DOM,Dominican Republic
+EC,Ecuador,R04,ECU,Ecuador
+EG,Egypt,R10,EGY,Egypt
+ES,El Salvador,R03,SLV,El Salvador
+EK,Equatorial Guinea,R11,GNQ,Equatorial Guinea
+ER,Eritrea,R11,ERI,Eritrea
+EN,Estonia,R05,EST,European Union
+WZ,Eswatini,R11,SWZ,Eswatini
+ET,Ethiopia,R11,ETH,Ethiopia
+E2,EU-15,R05,,EU-15
+E3,EU-25,R05,,EU-25
+FA,Falkland Islands (Islas Malvin,R04,,Falkland Islands (Islas Malvin
+FO,Faroe Islands,R16,FRO,Faroe Islands
+T8,Fernando Po,R15,,Fernando Po
+FJ,Fiji,R14,FJI,Fiji
+FI,Finland,R05,FIN,European Union
+CZ,Former Czechoslovakia,R05,,Former Czechoslovakia
+YO,Former Yugoslavia,R16,,Former Yugoslavia
+FT,Fr.Ter.Africa-Issas,R11,,Fr.Ter.Africa-Issas
+FR,France,R05,FRA,European Union
+T4,French Equatorial Africa,R15,,French Equatorial Africa
+FG,French Guiana,R04,GUF,French Guiana
+X6,French Ind. Ocean Territory,R11,,French Ind. Ocean Territory
+FP,French Polynesia,R14,PYF,French Polynesia
+Y2,French West Indies,R02,,French West Indies
+GB,Gabon,R11,GAB,Gabon
+GA,"Gambia, The",R11,GMB,"Gambia, The"
+GZ,Gaza Strip,R09,XGZ,Gaza Strip
+GG,Georgia,R07,GEO,Georgia
+GC,German Democratic Republic,R05,,German Democratic Republic
+GM,Germany,R05,DEU,European Union
+GE,"Germany, Federal Republic of",R05,,"Germany, Federal Republic of"
+GH,Ghana,R11,GHA,Ghana
+GI,Gibraltar,R16,GIB,Gibraltar
+GN,Gilbert and Ellice Islands,R14,,Gilbert and Ellice Islands
+GR,Greece,R05,GRC,European Union
+GL,Greenland,R01,GRL,Greenland
+GJ,Grenada,R02,GRD,Grenada
+GP,Guadeloupe,R02,GLP,Guadeloupe
+GQ,Guam,R14,GUM,Guam
+GT,Guatemala,R03,GTM,Guatemala
+GU,Guinea,R11,GIN,Guinea
+PU,Guinea-Bissau,R11,GNB,Guinea-Bissau
+GY,Guyana,R04,GUY,Guyana
+HA,Haiti,R02,HTI,Haiti
+HO,Honduras,R03,HND,Honduras
+HK,Hong Kong,R18,HKG,Hong Kong
+HU,Hungary,R05,HUN,European Union
+IC,Iceland,R16,ISL,Iceland
+IN,India,R12,IND,India
+ID,Indonesia,R17,IDN,Indonesia
+IR,Iran,R09,IRN,Iran
+IZ,Iraq,R09,IRQ,Iraq
+EI,Ireland,R05,IRL,European Union
+IS,Israel,R09,ISR,Israel
+IT,Italy,R05,ITA,European Union
+JM,Jamaica,R02,JAM,Jamaica
+JA,Japan,R18,JPN,Japan
+JO,Jordan,R09,JOR,Jordan
+KZ,Kazakhstan,R07,KAZ,Kazakhstan
+KE,Kenya,R11,KEN,Kenya
+KN,"Korea, North",R18,PRK,"Korea, North"
+KS,"Korea, South",R18,KOR,"Korea, South"
+KV,Kosovo,R16,XKS,Kosovo
+KU,Kuwait,R09,KWT,Kuwait
+KG,Kyrgyzstan,R07,KGZ,Kyrgyzstan
+LA,Laos,R17,LAO,Laos
+LG,Latvia,R05,LVA,European Union
+LE,Lebanon,R09,LBN,Lebanon
+Y1,Leeward-Windward Islands,R02,,Leeward-Windward Islands
+LT,Lesotho,R11,LSO,Lesotho
+LI,Liberia,R11,LBR,Liberia
+LY,Libya,R10,LBY,Libya
+LH,Lithuania,R05,LTU,European Union
+LU,Luxembourg,R05,LUX,European Union
+MC,Macau,R18,MAC,Macau
+MA,Madagascar,R11,MDG,Madagascar
+Y9,Madeira Islands,R11,,Madeira Islands
+MI,Malawi,R11,MWI,Malawi
+MY,Malaysia,R17,MYS,Malaysia
+MV,Maldives,R12,MDV,Maldives
+ML,Mali,R11,MLI,Mali
+MT,Malta,R05,MLT,European Union
+MB,Martinique,R02,MTQ,Martinique
+MR,Mauritania,R11,MRT,Mauritania
+MP,Mauritius,R11,MUS,Mauritius
+MX,Mexico,R01,MEX,Mexico
+MQ,Midway Islands,R14,XMW,Midway Islands
+MD,Moldova,R07,MDA,Moldova
+MG,Mongolia,R18,MNG,Mongolia
+MJ,Montenegro,R16,MNE,Montenegro
+MH,Montserrat,R02,MSR,Montserrat
+MO,Morocco,R10,MAR,Morocco
+MZ,Mozambique,R11,MOZ,Mozambique
+WA,Namibia,R11,NAM,Namibia
+NR,Nauru,R14,NRU,Nauru
+NP,Nepal,R12,NPL,Nepal
+NL,Netherlands,R05,NLD,European Union
+NA,Netherlands Antilles,R02,,Netherlands Antilles
+NC,New Caledonia,R14,NCL,New Caledonia
+NZ,New Zealand,R14,NZL,New Zealand
+NU,Nicaragua,R03,NIC,Nicaragua
+NG,Niger,R11,NER,Niger
+NI,Nigeria,R11,NGA,Nigeria
+MK,North Macedonia,R16,MKD,North Macedonia
+NO,Norway,R16,NOR,Norway
+MU,Oman,R09,OMN,Oman
+ZZ,Other,R15,,Other
+Z7,"Other Pacific Islands, NEC",R14,,"Other Pacific Islands, NEC"
+PK,Pakistan,R12,PAK,Pakistan
+PN,Panama,R03,PAN,Panama
+PP,Papua New Guinea,R14,PNG,Papua New Guinea
+PA,Paraguay,R04,PRY,Paraguay
+PE,Peru,R04,PER,Peru
+RP,Philippines,R17,PHL,Philippines
+PL,Poland,R05,POL,European Union
+PO,Portugal,R05,PRT,European Union
+RQ,Puerto Rico,R02,PRI,Puerto Rico
+QA,Qatar,R09,QAT,Qatar
+RE,Reunion,R11,REU,Reunion
+RO,Romania,R05,ROU,European Union
+RS,Russia,R07,RUS,Russia
+RW,Rwanda,R11,RWA,Rwanda
+Z5,Ryukyu Is - Nansei Is,R18,,Ryukyu Is - Nansei Is
+WS,Samoa,R14,WSM,Samoa
+TP,Sao Tome and Principe,R11,STP,Sao Tome and Principe
+SA,Saudi Arabia,R09,SAU,Saudi Arabia
+SG,Senegal,R11,SEN,Senegal
+RB,Serbia,R16,SRB,Serbia
+SR,Serbia and Montenegro,R16,,Serbia and Montenegro
+SE,Seychelles,R11,SYC,Seychelles
+SL,Sierra Leone,R11,SLE,Sierra Leone
+SN,Singapore,R17,SGP,Singapore
+LO,Slovakia,R05,SVK,European Union
+SI,Slovenia,R05,SVN,European Union
+BP,Solomon Islands,R14,SLB,Solomon Islands
+SO,Somalia,R11,SOM,Somalia
+SF,South Africa,R11,ZAF,South Africa
+OD,South Sudan,R11,SSD,South Sudan
+X8,Southern Asia NEC,R12,,Southern Asia NEC
+SP,Spain,R05,ESP,European Union
+CE,Sri Lanka,R12,LKA,Sri Lanka
+SH,St. Helena (Br W Afr),R11,SHN,St. Helena (Br W Afr)
+SC,St. Kitts and Nevis,R02,,St. Kitts and Nevis
+ST,St. Lucia,R02,LCA,St. Lucia
+SB,St. Pierre and Miquelon,R01,SPM,St. Pierre and Miquelon
+VC,St. Vincent and the Grenadines,R02,VCT,St. Vincent and the Grenadines
+SU,Sudan,R11,SDN,Sudan
+NS,Suriname,R04,SUR,Suriname
+SW,Sweden,R05,SWE,European Union
+SZ,Switzerland,R16,CHE,Switzerland
+SY,Syria,R09,SYR,Syria
+TW,Taiwan,R18,TWN,Taiwan
+TI,Tajikistan,R07,TJK,Tajikistan
+TZ,Tanzania,R11,TZA,Tanzania
+TH,Thailand,R17,THA,Thailand
+TO,Togo,R11,TGO,Togo
+TN,Tonga,R14,TON,Tonga
+TD,Trinidad and Tobago,R02,TTO,Trinidad and Tobago
+NQ,Trust Territory of the Pacific,R14,,Trust Territory of the Pacific
+TS,Tunisia,R10,TUN,Tunisia
+TU,Turkey,R09,TUR,Turkey
+TX,Turkmenistan,R07,TKM,Turkmenistan
+TK,Turks and Caicos Islands,R02,TCA,Turks and Caicos Islands
+UG,Uganda,R11,UGA,Uganda
+UP,Ukraine,R07,UKR,Ukraine
+UR,Union of Soviet Socialist Repu,R07,,Union of Soviet Socialist Repu
+TC,United Arab Emirates,R09,ARE,United Arab Emirates
+UK,United Kingdom,R16,GBR,United Kingdom
+US,United States,R01,USA,United States
+UY,Uruguay,R04,URY,Uruguay
+UZ,Uzbekistan,R07,UZB,Uzbekistan
+NH,Vanuatu/New Hebrides,R14,VUT,Vanuatu/New Hebrides
+VE,Venezuela,R04,VEN,Venezuela
+VM,Vietnam,R17,VNM,Vietnam
+V1,"Vietnam, Peoples Republic of",R17,,"Vietnam, Peoples Republic of"
+V2,"Vietnam, Republic of (South)",R17,,"Vietnam, Republic of (South)"
+VO,Virgin Islands of the U.S.,R02,VIR,Virgin Islands of the U.S.
+WQ,Wake Island,R14,XWK,Wake Island
+WE,West Bank,R09,XWB,West Bank
+WI,Western Sahara,R11,ESH,Western Sahara
+YM,Yemen,R09,YEM,Yemen
+YS,Yemen (Aden),R09,,Yemen (Aden)
+YE,Yemen (Sanaa),R09,,Yemen (Sanaa)
+YI,Yugoslavia (>01/2001),R16,,Yugoslavia (>01/2001)
+YU,Yugoslavia (>05/92),R16,,Yugoslavia (>05/92)
+ZA,Zambia,R11,ZMB,Zambia
+RH,Zimbabwe,R11,ZWE,Zimbabwe
+E4,Austria,,,European Union
+E4,Belgium,,,European Union
+E4,Bulgaria,,,European Union
+E4,Croatia,,,European Union
+E4,Republic of Cyprus,,,European Union
+E4,Czech Republic,,,European Union
+E4,Denmark,,,European Union
+E4,Estonia,,,European Union
+E4,Finland,,,European Union
+E4,France,,,European Union
+E4,Germany,,,European Union
+E4,Greece,,,European Union
+E4,Hungary,,,European Union
+E4,Ireland,,,European Union
+E4,Italy,,,European Union
+E4,Latvia,,,European Union
+E4,Lithuania,,,European Union
+E4,Luxembourg,,,European Union
+E4,Malta,,,European Union
+E4,Netherlands,,,European Union
+E4,Poland,,,European Union
+E4,Portugal,,,European Union
+E4,Romania,,,European Union
+E4,Slovakia,,,European Union
+E4,Slovenia,,,European Union
+E4,Spain,,,European Union
+E4,Sweden,,,European Union
